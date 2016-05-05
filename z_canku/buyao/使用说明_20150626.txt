@@ -1,0 +1,5 @@
+双击“ 启动网站.bat ”，然后在浏览器里输入“ http://localhost:4000/ "。
+
+登录请输入
+邮箱：caijs@dlut.edu.cn
+密码：cjs
